@@ -2,5 +2,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoriSakiTsu/MoriSakiTsu/main/.github/assets/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoriSakiTsu/MoriSakiTsu/main/.github/assets/snake.svg" />
-  <img alt="贪吃蛇动画" src="https://raw.githubusercontent.com/MoriSkiTsu/MoriSakiTsu/main/.github/assets/snake.svg" />
+  <img alt="贪吃蛇动画" src="https://raw.githubusercontent.com/MoriSakiTsu/MoriSakiTsu/main/.github/assets/snake.svg" />
 </picture>
